@@ -1,0 +1,106 @@
+body{
+    background-image: linear-gradient(to right, rgb(0 195 255 / 68%), #cf23c6);
+
+}
+.main{
+    background-color:white;
+    margin: auto;
+align-items: center;
+text-align: center;
+width: 350px;
+border-radius: 9px;
+
+}
+.main h1{
+    font-family:sans-serif;
+    padding-top: 25px;
+}
+.main .input .text{
+    padding-top: 6px;
+}
+.main .input input{
+    width: 60%;
+    border: none;
+    outline: none;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+    padding: 7px 7px;
+    padding-top: 10px;
+    box-shadow: 1px 1px 4px 1px #7e7a7a;
+}
+.main .input .label{
+    padding-top: 10px;
+}
+.main .input .label label{
+padding-right: 55%;
+font-family:sans-serif;
+font-size: 13px;
+font-weight: bold;
+gap: 30px;
+}
+.main .input .text .img{
+ background-color: white;
+ border-bottom-left-radius: 4px;
+ border-top-left-radius: 4px;
+ overflow: hidden;
+ box-shadow: 1px 1px 4px 1px #7e7a7a;
+}
+.main .input .text{
+    display: flex;
+   justify-content: center;
+}
+.main .input .text img{
+    height: 30px;
+    width: 30px;
+}
+.main .anker{
+    padding-left: 44%;
+    font-size: 13px;
+    font-family:sans-serif;
+    padding-top: 8px;
+}
+.main .anker a{
+    text-decoration: none;
+    color: black;
+}
+button{
+margin-top: 30px;
+    width: 73%;
+    padding: 8px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgb(0 195 255 / 68%), #cf23c6);
+
+}
+.main .ank{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.main .ank a{
+    font-family: sans-serif;
+    font-size: 13px;
+
+    text-decoration: none;
+    color: black;
+   
+}
+.main .logo{
+    display: flex;
+    height: 44px;
+    width: 44px;
+    padding-left: 33%;
+}
+.main .logo img{
+    margin: 5px;
+   border-radius: 50%;
+  
+}
+
+.main .sign{
+    display: block;
+    padding-top: 50px;
+    padding-bottom: 14px;
+    font-family: sans-serif;
+}
